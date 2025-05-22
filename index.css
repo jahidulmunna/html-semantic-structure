@@ -3,3 +3,17 @@
      font-size: 70px;
       text-align: center;
 }
+
+.division{
+      color: brown;
+      
+}
+
+.button{
+      color:rgb(126, 10, 2);
+      font-family:serif;
+      font-weight: bold;
+      background-color: cornflowerblue;
+      border-radius: 15px; 
+      border: 1px solid rgb(126, 10, 2);
+}
